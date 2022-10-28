@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Soon
 email: info@dignityconsult.eu
-phone: +37379999527
+phone: 0037379999527
 description: A coming soon page for Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yjpl.github.io/soon/" # the base hostname & protocol for your site, e.g. http://example.com
